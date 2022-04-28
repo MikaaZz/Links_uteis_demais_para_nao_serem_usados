@@ -73,6 +73,7 @@ https://docs.npmjs.com/about-npm
 https://pt-br.reactjs.org/docs/getting-started.html
 <br>
 -*React Wikiwando:*
+<br>
 https://www.wikiwand.com/en/React_(JavaScript_library)
 <br>
 -*Learn JavaScript:*
