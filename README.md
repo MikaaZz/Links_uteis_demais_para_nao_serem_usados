@@ -41,7 +41,7 @@ https://github.com/expo/create-react-native-app
 
 - **Npm sass:**
 
-https://create-react-app.dev/docs/getting-started/
+https://www.npmjs.com/package/sass
 
 - **Npm typescript css modules:**
 
