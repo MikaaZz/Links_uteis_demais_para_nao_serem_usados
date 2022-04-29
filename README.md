@@ -37,6 +37,10 @@ https://www.npmjs.com/package/react-dom
 
 https://github.com/expo/create-react-native-app
 
+- **React Reveal:**
+
+https://www.react-reveal.com/
+
 ## Npm
 
 - **Npm sass:**
