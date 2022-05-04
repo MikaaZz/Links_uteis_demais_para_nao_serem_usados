@@ -121,3 +121,11 @@ https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-p
 - **Lista de linguas para setar HTML:**
 
 https://www.alphatrad.pt/o-codigo-das-linguas
+
+- **CSS Shapes:**
+
+https://css-tricks.com/the-shapes-of-css/
+
+- **CSS-Trick:**
+
+https://css-tricks.com/guides/
