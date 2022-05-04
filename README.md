@@ -60,6 +60,10 @@ https://www.npmjs.com/
 - **Documentação GIT:**
 
 https://github.com/Famolus/awesome-sass#sass-vs-scss
+
+- **Documentação Simplificada:**
+
+https://devschannel.com/sass/introducao-ao-sass
 ## UI
 
 - **Material Ui:**
